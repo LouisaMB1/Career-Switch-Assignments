@@ -1,0 +1,3 @@
+#A .gitignore file is a plain txt file in Git respositroties that specify files and directories that should be ignored.
+This ultimately means changes will not be tracked or included in Version Control (VS), i.e. .log will ignore all
+It is good practice to create this file type as you can customise it for each project you are on and keep making a bespoke list of files and/or directories you with to add to the 'ignore' file.#
