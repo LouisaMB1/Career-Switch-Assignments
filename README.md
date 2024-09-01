@@ -9,6 +9,14 @@
 
 # Assigment one
 ### Please see examples of use of commands in Git:
+<div class="carousel-frame">
+  <div class="carousel-slide">
+    <img src="Git status check.png" />
+    <img src="Deleting new branch.png" />
+    <img src="Commiting new file changes to main.png" />
+  </div>
+  <button class="carousel-prev"></button>
+  <button class="carousel-next"></button>
 
 ![Git Status check](<Git status check.png>) <img src="Git status check.png" alt="Description" width="300" height="200">
 ![Creating a Branch](<Deleting new branch.png>) 
