@@ -1,1 +1,2 @@
-#A requirements.txt file is a python file that lists all libaries/packages needed for a proect specifiying the exact version and allows devlopers to easily install what is required for that project#
+A requirements.txt file is a python file that lists all libaries/packages needed for a project specifiying the exact version 
+and allows developers to easily install what is required for that project.
