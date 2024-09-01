@@ -1,5 +1,12 @@
 ![Louisa's Banner][def]
 
+- [About Me](#about-me)
+    - [**Hi 👋, I'm Louisa new to the world of tech!**](#hi--im-louisa-new-to-the-world-of-tech)
+- [Tech Knowledge](#tech-knowledge)
+- [Assigment One](#assigment-one)
+    - [Please see examples of use of commands in Git:](#please-see-examples-of-use-of-commands-in-git)
+- [Connect With Me](#connect-with-me)
+
 # About Me
 ### **Hi 👋, I'm Louisa new to the world of tech!**
 - :dizzy: I’m currently studying on the micro degree with Code First Girls in ***SE***
@@ -37,7 +44,7 @@
 
 — Mona the Octocat
 
-## Connect With Me
+# Connect With Me
 <a href="https://www.linkedin.com/in/louisa-mussington-boreham-974b38a4/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinKedIn" style="width:40px;height:40px;">
 </a>    <a href="https://www.instagram.com/modernbritishrose" target="_blank">
