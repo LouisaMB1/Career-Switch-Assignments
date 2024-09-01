@@ -10,7 +10,7 @@
 # Assigment one
 ### Please see examples of use of commands in Git:
 
-[Snapsots of command use in Git](README.md)
+[Snapsots of command use in Git](index.html)
 
 ![Git Status check](<Git status check.png>) 
 ![Creating a Branch](<Deleting new branch.png>) 
