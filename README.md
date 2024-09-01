@@ -28,9 +28,10 @@
 
 [Snapshots of Git command usage](http://127.0.0.1:5500/index.html)
 
-![Git Status check](<Git status check.png>) <img src="Git status check.png" alt="Description" width="50" height="50">
-![Creating a Branch](<Deleting new branch.png>) <img src="Git status check.png" alt="Description" width="50" height="50">
-![Creating and committing a new file](<Commiting new file changes to main.png>) <img src="Git status check.png" alt="Description" width="50" height="50">
+<img src="Git status check.png" alt="Description" width="300" height="200"/>
+ <img src="Git status check.png" alt="Description" width="300" height="200"/>
+<img src="Git status check.png" alt="Description" width="300" height="200"/>
+
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
