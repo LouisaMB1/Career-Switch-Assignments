@@ -9,13 +9,10 @@
 
 # Assigment one
 ### Please see examples of use of commands in Git:
-![Git status check][def1] ![Creating a Branch][def2] ![Creating & Committing a file][def3]
+![Git status check](Git status check.png) ![Creating a Branch](Deleting new branch.png) ![Creating & Committing a file.png](Commiting new file changes to main.png)
 
 
 
 
 
 [def]: @reallygreatsite.png
-[def1]: Git status check.png
-[def2]: Deleting new branch.png
-[def3]: Commiting new file changes to main.png
