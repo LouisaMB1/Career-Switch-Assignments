@@ -9,6 +9,7 @@
 
 # Assigment one
 ### Please see examples of use of commands in Git:
+[Snapshots of Git command usage](http://127.0.0.1:5500/index.html)
 
 ![Git Status check](<Git status check.png>) <img src="Git status check.png" alt="Description" width="300" height="200">
 ![Creating a Branch](<Deleting new branch.png>) 
