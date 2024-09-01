@@ -40,6 +40,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:40px;height:40px;">
 </a>
 
-
-
 [def]: @reallygreatsite.png
+
+![Thank you banner](<Thank you gif.gif>)
