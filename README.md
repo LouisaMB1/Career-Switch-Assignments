@@ -17,6 +17,8 @@
   </div>
   <button class="carousel-prev"></button>
   <button class="carousel-next"></button>
+</div>
+
 
 ![Git Status check](<Git status check.png>) 
 ![Creating a Branch](<Deleting new branch.png>) 
