@@ -9,6 +9,15 @@
 - [Assigment One](#assigment-one)
 - [Connect With Me](#connect-with-me)
 
+<div align="right">
+
+## To-do
+- [x] Code
+- [ ] Sleep
+- [ ] Socialise
+
+</div>
+
 <div align="center">
 
 # About Me
