@@ -40,8 +40,8 @@ max_classes_per_month INT
 -- CHECK (monthly_cost > 0);
 
 -- Mistake made so removed Constraint to make it include 0
-ALTER TABLE memberships
-DROP CONSTRAINT chk_monthly_cost_postive;
+-- ALTER TABLE memberships
+-- DROP CONSTRAINT chk_monthly_cost_postive;
 
 SELECT CONSTRAINT_NAME 
 FROM information_schema.TABLE_CONSTRAINTS 
@@ -206,6 +206,7 @@ VALUES
 SELECT* FROM class_attendance
 
 -- Query a list of all active members who are on the "GROUP" membership plan.
+-- using alia's as using join
   
 SELECT* FROM memberships
 
